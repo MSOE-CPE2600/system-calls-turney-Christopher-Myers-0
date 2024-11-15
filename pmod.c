@@ -1,5 +1,5 @@
 /*******************************************************************************
-Filename: pinfo.c
+Filename: pmod.c
 Name: Christopher Myers
 Assignment: Lab 9
 Date: 11/12/2024
